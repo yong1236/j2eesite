@@ -1,0 +1,17 @@
+.mymetadata
+.checkstyle
+.classpath
+.project
+.class
+.war
+.zip
+.rar
+.idea
+*.iml
+.settings/*
+.gradle/*
+/indexes/*
+/build/*
+/src/main/webapp/WEB-INF/classes/*
+/src/main/webapp/userfiles/*
+/build/
